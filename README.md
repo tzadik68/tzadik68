@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tzadik68
-- 👀 I’m currently working on various projects related to Financial - and MacroEconometrics
+- 👀 I’m currently working on various projects related to Financial Econometrics and Macroeconomics
 
 
 <!---
